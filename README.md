@@ -11,3 +11,4 @@ This C++ project provides a simple command-line interface for managing user acco
 - **Withdraw Cash:** Allows the user to withdraw cash from their account, ensuring that the withdrawal does not exceed the current balance.
 - **Exit:** Safely exits the program.
 
+![Screenshot 2024-08-27 031545](https://github.com/user-attachments/assets/60e46a2a-6f3e-4aad-b792-8dd21eb4001c)
